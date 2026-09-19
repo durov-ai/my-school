@@ -1,0 +1,74 @@
+[
+  {
+    "id": "teacher-1",
+    "name": "Dilnoza Karimova",
+    "subject": "Matematika",
+    "bio": "Dilnoza opa 2011-yildan buyon maktabimizda matematika faniga saboq beradi. Uning darslarida murakkab mavzular ham qiziqarli masalalar orqali tushuntiriladi, shu bois o'quvchilar fanni yaxshi o'zlashtiradi. So'nggi 5 yil ichida shogirdlaridan 12 nafari respublika olimpiadalarida g'olib chiqqan.",
+    "title": "Oliy toifa",
+    "category": "science",
+    "photo_url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=400&auto=format&fit=crop"
+  },
+  {
+    "id": "teacher-2",
+    "name": "Aziz Rahimov",
+    "subject": "Fizika",
+    "bio": "Texnika fanlari nomzodi Aziz Rahimov amaliy fizika bo'yicha bir qancha ilmiy loyihalarga rahbarlik qilgan. Maktab robototexnika to'garagi asoschisi.",
+    "title": "Oliy toifa",
+    "category": "science",
+    "photo_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=400&auto=format&fit=crop"
+  },
+  {
+    "id": "teacher-3",
+    "name": "Malika Yusupova",
+    "subject": "Tarix",
+    "bio": "Malika opa O'zbekiston tarixi bo'yicha mualliflik dasturini ishlab chiqqan va uni maktabimizda muvaffaqiyatli qo'llamoqda.",
+    "title": "Birinchi toifa",
+    "category": "humanities",
+    "photo_url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=400&auto=format&fit=crop"
+  },
+  {
+    "id": "teacher-4",
+    "name": "Sardor Toshev",
+    "subject": "Ingliz tili",
+    "bio": "Cambridge CELTA sertifikatiga ega Sardor Toshev xalqaro ta'lim dasturlari bo'yicha keng tajribaga ega.",
+    "title": "Oliy toifa",
+    "category": "language",
+    "photo_url": "https://images.unsplash.com/photo-1544717305-2782549b5136?q=80&w=400&auto=format&fit=crop"
+  },
+  {
+    "id": "teacher-5",
+    "name": "Nilufar Egamova",
+    "subject": "Rus tili va adabiyoti",
+    "bio": "Nilufar opa ijodiy yozuv to'garagi rahbari bo'lib, o'quvchilarni adabiy ijodga ilhomlantiradi.",
+    "title": "Birinchi toifa",
+    "category": "language",
+    "photo_url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=400&auto=format&fit=crop"
+  },
+  {
+    "id": "teacher-6",
+    "name": "Jamshid Nazarov",
+    "subject": "Informatika",
+    "bio": "Jamshid Nazarov dasturlash to'garagi rahbari sifatida o'quvchilarga zamonaviy dasturlash tillarini o'rgatadi.",
+    "title": "Oliy toifa",
+    "category": "science",
+    "photo_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=400&auto=format&fit=crop"
+  },
+  {
+    "id": "teacher-7",
+    "name": "Gulnora Saidova",
+    "subject": "Adabiyot",
+    "bio": "Gulnora opa she'riyat kechalari tashkilotchisi bo'lib, o'quvchilarni badiiy ijodga va kitobxonlikka ilhomlantiradi.",
+    "title": "Oliy toifa",
+    "category": "humanities",
+    "photo_url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=400&auto=format&fit=crop"
+  },
+  {
+    "id": "teacher-8",
+    "name": "Bekzod Ismoilov",
+    "subject": "Nemis tili",
+    "bio": "Bekzod Ismoilov Germaniyada malaka oshirish kursini tamomlagan va xalqaro almashinuv dasturlari rahbari sifatida faoliyat yuritadi.",
+    "title": "Birinchi toifa",
+    "category": "language",
+    "photo_url": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=400&auto=format&fit=crop"
+  }
+]

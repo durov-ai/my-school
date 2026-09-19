@@ -1,0 +1,10 @@
+[
+  {"id": "g-1", "photo_url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1600&auto=format&fit=crop", "category": "events", "caption": ""},
+  {"id": "g-2", "photo_url": "https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=1600&auto=format&fit=crop", "category": "classes", "caption": ""},
+  {"id": "g-3", "photo_url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=1600&auto=format&fit=crop", "category": "sports", "caption": ""},
+  {"id": "g-4", "photo_url": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?q=80&w=1600&auto=format&fit=crop", "category": "classes", "caption": ""},
+  {"id": "g-5", "photo_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1600&auto=format&fit=crop", "category": "events", "caption": ""},
+  {"id": "g-6", "photo_url": "https://images.unsplash.com/photo-1526676037777-05a232554f77?q=80&w=1600&auto=format&fit=crop", "category": "sports", "caption": ""},
+  {"id": "g-7", "photo_url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?q=80&w=1600&auto=format&fit=crop", "category": "classes", "caption": ""},
+  {"id": "g-8", "photo_url": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=1600&auto=format&fit=crop", "category": "events", "caption": ""}
+]

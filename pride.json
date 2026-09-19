@@ -1,0 +1,56 @@
+[
+  {
+    "id": "pride-1",
+    "name": "Madina Aliyeva",
+    "grade": "11-sinf",
+    "subject": "Matematika",
+    "bio": "Madina kichik sinflardanoq matematikaga alohida qiziqish bildirgan. Xalqaro matematika olimpiadasi g'olibi, respublika bosqichida 1-o'rin.",
+    "title": "Oltin medal",
+    "photo_url": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "pride-2",
+    "name": "Sarvar Yo'ldoshev",
+    "grade": "10-sinf",
+    "subject": "Robototexnika",
+    "bio": "Sarvar maktab robototexnika to'garagining eng faol ishtirokchisi. Robototexnika bo'yicha xalqaro tanlovda kumush medal sohibi.",
+    "title": "Kumush medal",
+    "photo_url": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "pride-3",
+    "name": "Zarina Nosirova",
+    "grade": "9-sinf",
+    "subject": "Adabiyot",
+    "bio": "Zarina badiiy ijodga bo'lgan ishtiyoqi bilan ajralib turadi. Ona tili va adabiyot fanidan respublika olimpiadasida g'olib.",
+    "title": "1-o'rin",
+    "photo_url": "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "pride-4",
+    "name": "Otabek Qodirov",
+    "grade": "11-sinf",
+    "subject": "Fizika",
+    "bio": "Otabek amaliy fizika masalalarini yechishda alohida iste'dodga ega. Fizika fanidan xalqaro olimpiadada bronza medal qo'lga kiritdi.",
+    "title": "Bronza medal",
+    "photo_url": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "pride-5",
+    "name": "Kamola Rashidova",
+    "grade": "8-sinf",
+    "subject": "San'at",
+    "bio": "Kamola kichik yoshdan rasm chizishga bo'lgan iste'dodi bilan ajralib turadi. Rasm chizish bo'yicha xalqaro bolalar tanlovida bosh sovrin sohibi.",
+    "title": "Bosh sovrin",
+    "photo_url": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": "pride-6",
+    "name": "Sherzod Umarov",
+    "grade": "10-sinf",
+    "subject": "Kimyo",
+    "bio": "Sherzod kimyo fanidan doimiy ravishda yuqori natijalar ko'rsatib kelmoqda. Kimyo fanidan respublika olimpiadasida 2-o'rinni egalladi.",
+    "title": "2-o'rin",
+    "photo_url": "https://images.unsplash.com/photo-1549068106-b024baf5062d?q=80&w=600&auto=format&fit=crop"
+  }
+]
